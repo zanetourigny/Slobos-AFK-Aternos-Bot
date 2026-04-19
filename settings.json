@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JOSSPSMP-TmWx.aternos.me:21191",
+    "ip": "JOSSPSMP-TmWx.aternos.me:",
     "port": 21191,
     "version": "",
     "try-creative": false
